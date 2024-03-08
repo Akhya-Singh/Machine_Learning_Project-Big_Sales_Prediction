@@ -8,5 +8,5 @@ The primary objective of this project is to develop a robust machine-learning mo
 
 ## Key Features
 - Data Preprocessing: Comprehensive preprocessing techniques to clean and prepare the sales data for analysis.
-- Exploratory Data Analysis (EDA): In-depth exploration of the data to gain insights into sales trends, patterns, and correlations.
-- Model Selection: Evaluation and selection of appropriate machine learning algorithms based on performance metrics such as accuracy, precision, and recall.
+- Exploratory Data Analysis (EDA): In-depth exploring of the data to gain insights into sales trends, patterns, and correlations.
+- Model Selection: Evaluating and selecting of appropriate machine learning algorithms based on performance metrics such as accuracy, precision, and recall.
